@@ -1,0 +1,4 @@
+meeting_no,reported_month,error
+697,2024-12,PDF not downloaded
+705,2025-08,LookupError: no numbered-route rows found on the ridership page
+706,2025-09,LookupError: no numbered-route rows found on the ridership page

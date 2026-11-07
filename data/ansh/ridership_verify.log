@@ -1,0 +1,410 @@
+2021-12  (No.658)  28 rows
+      FAIL      SUBTOTAL_EXPRESS passengers: components 5,600.00 vs printed 7,797.00 (-2197.00)
+      FAIL      SUBTOTAL_EXPRESS total_miles: components 1,408.38 vs printed 8,637.08 (-7228.70)
+      FAIL      SUBTOTAL_EXPRESS total_hours: components 106.00 vs printed 587.20 (-481.20)
+2022-01  (No.659)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 178,431.00 vs printed 8,675.00 (+169756.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 119,925.39 vs printed 11,433.13 (+108492.26)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 9,165.15 vs printed 772.50 (+8392.65)
+2022-02  (No.661)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 174,259.00 vs printed 9,398.00 (+164861.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 109,600.61 vs printed 10,545.48 (+99055.13)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,313.16 vs printed 735.80 (+7577.36)
+      FAIL      11 P/Hrs: printed 17.81 vs 7,336/314.50 = 23.33
+      FAIL      11 P/Mi: printed 1.35 vs 7,336/4,132.98 = 1.77
+      FAIL      21A P/Hrs: printed 20.56 vs 18,057/450.29 = 40.10
+      FAIL      21A P/Mi: printed 1.45 vs 18,057/6,380.44 = 2.83
+      FAIL      24 P/Hrs: printed 7.29 vs 3,921/269.14 = 14.57
+      FAIL      24 P/Mi: printed 0.39 vs 3,921/5,089.60 = 0.77
+      FAIL      35 P/Hrs: printed 21.3 vs 28,519/520.24 = 54.82
+      FAIL      35 P/Mi: printed 1.68 vs 28,519/6,597.32 = 4.32
+2022-03  (No.662)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 192,906.00 vs printed 9,683.00 (+183223.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 144,424.21 vs printed 11,987.00 (+132437.21)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 11,078.92 vs printed 867.10 (+10211.82)
+      FAIL      15 P/Hrs: printed 63.48 vs 21,525/566.70 = 37.98
+      FAIL      15 P/Mi: printed 5.99 vs 21,525/4,806.00 = 4.48
+      FAIL      17 P/Hrs: printed 20.43 vs 11,575/339.09 = 34.14
+      FAIL      17 P/Mi: printed 2.41 vs 11,575/3,591.00 = 3.22
+2022-04  (No.663)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 205,918.00 vs printed 12,249.00 (+193669.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 120,978.51 vs printed 17,131.45 (+103847.06)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 9,239.35 vs printed 1,390.50 (+7848.85)
+2022-05  (No.664)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 149,688.00 vs printed 9,947.00 (+139741.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 118,080.58 vs printed 11,681.85 (+106398.73)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,925.02 vs printed 791.97 (+8133.05)
+      FAIL      1B P/Mi: printed 1.41 vs 18,678/10,141.54 = 1.84
+      FAIL      2A P/Mi: printed 4.19 vs 3,834/3,411.54 = 1.12
+      FAIL      2B P/Mi: printed 4.37 vs 3,559/3,272.40 = 1.09
+      FAIL      3 P/Mi: printed 1.28 vs 7,295/11,161.30 = 0.65
+      FAIL      4A P/Mi: printed 2.16 vs 8,372/6,632.50 = 1.26
+      FAIL      4B P/Mi: printed 1.14 vs 27,869/12,537.37 = 2.22
+      FAIL      5 P/Mi: printed 3.22 vs 8,979/4,440.35 = 2.02
+      FAIL      6A P/Mi: printed 1.19 vs 11,414/11,992.68 = 0.95
+      FAIL      6B P/Mi: printed 3.0 vs 3,383/4,770.62 = 0.71
+      FAIL      7 P/Mi: printed 1.49 vs 13,613/9,570.68 = 1.42
+      FAIL      8 P/Mi: printed 1.92 vs 7,481/7,451.95 = 1.00
+      FAIL      9 P/Mi: printed 3.25 vs 2,084/4,399.78 = 0.47
+      FAIL      10 P/Mi: printed 2.98 vs 6,958/4,805.52 = 1.45
+      FAIL      23 P/Mi: printed 2.99 vs 4,402/4,779.04 = 0.92
+2022-06  (No.665)  25 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 148,353.00 vs printed 2,870.00 (+145483.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 113,471.17 vs printed 8,737.00 (+104734.17)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,553.80 vs printed 557.20 (+7996.60)
+2022-07  (No.667)  25 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 147,225.00 vs printed 2,442.00 (+144783.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 108,370.14 vs printed 7,567.90 (+100802.24)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,168.50 vs printed 470.90 (+7697.60)
+2022-08  (No.668)  26 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 231,574.00 vs printed 3,163.00 (+228411.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 119,246.09 vs printed 9,868.30 (+109377.79)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,966.55 vs printed 607.70 (+8358.85)
+2022-09  (No.669)  26 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 260,065.00 vs printed 2,794.00 (+257271.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 118,477.02 vs printed 9,590.30 (+108886.72)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,752.72 vs printed 600.80 (+8151.92)
+2022-10  (No.670)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 256,607.00 vs printed 3,252.00 (+253355.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 121,988.24 vs printed 10,592.20 (+111396.04)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 9,074.35 vs printed 657.40 (+8416.95)
+2022-11  (No.671)  27 rows
+      rounding  SUBTOTAL_REGULAR total_miles: components 116,780.77 vs printed 116,781.00 (-0.23)
+      rounding  SUBTOTAL_REGULAR total_hours: components 8,698.49 vs printed 8,698.00 (+0.49)
+      FAIL      GRAND_TOTAL P/Hrs: printed 30.16 vs 392,691/3,018.80 = 130.08
+2022-12  (No.672)  27 rows
+      rounding  SUBTOTAL_REGULAR total_miles: components 119,250.75 vs printed 119,251.00 (-0.25)
+      FAIL      GRAND_TOTAL P/Hrs: printed 22.11 vs 262,296/1,862.25 = 140.85
+2023-01  (No.673)  29 rows
+      67 checks, all pass
+2023-02  (No.674)  29 rows
+      67 checks, all pass
+2023-03  (No.675)  29 rows
+      67 checks, all pass
+2023-04  (No.676)  29 rows
+      67 checks, all pass
+2023-05  (No.677)  29 rows
+      FAIL      1B P/Mi: printed 1.94 vs 24,721/9,976.77 = 2.48
+      FAIL      2A P/Mi: printed 5.03 vs 6,332/3,856.07 = 1.64
+      FAIL      2B P/Mi: printed 5.02 vs 6,469/3,856.78 = 1.68
+      FAIL      3 P/Mi: printed 1.82 vs 9,500/10,635.78 = 0.89
+      FAIL      4A P/Mi: printed 3.01 vs 11,577/6,447.22 = 1.80
+      FAIL      4B P/Mi: printed 1.61 vs 34,670/12,035.12 = 2.88
+      FAIL      5 P/Mi: printed 3.72 vs 5,738/5,206.09 = 1.10
+      FAIL      6A P/Mi: printed 1.65 vs 15,629/11,710.97 = 1.33
+      FAIL      6B P/Mi: printed 4.37 vs 4,461/4,434.95 = 1.01
+      FAIL      7 P/Mi: printed 2.07 vs 15,893/9,347.30 = 1.70
+      FAIL      8 P/Mi: printed 3.11 vs 11,878/6,232.06 = 1.91
+      FAIL      9 P/Mi: printed 4.06 vs 3,655/4,772.28 = 0.77
+      FAIL      10 P/Mi: printed 3.88 vs 9,693/4,997.63 = 1.94
+      FAIL      23 P/Mi: printed 3.06 vs 7,183/6,338.74 = 1.13
+2023-06  (No.679)  29 rows
+      43 checks, all pass
+2023-07  (No.680)  29 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 179,429.00 vs printed 179,493.00 (-64.00)
+2023-08  (No.681)  30 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 298,835.00 vs printed 300,220.00 (-1385.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 120,486.69 vs printed 122,697.12 (-2210.43)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 9,296.31 vs printed 9,562.79 (-266.48)
+2023-09  (No.682)  30 rows
+      69 checks, all pass
+2023-10  (No.683)  31 rows
+      71 checks, all pass
+2023-11  (No.684)  30 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 290,596.00 vs printed 291,356.00 (-760.00)
+2023-12  (No.685)  30 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 200,397.00 vs printed 200,693.00 (-296.00)
+2024-01  (No.686)  30 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 221,662.00 vs printed 309,216.00 (-87554.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 67,030.16 vs printed 121,416.00 (-54385.84)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 4,950.44 vs printed 9,208.00 (-4257.56)
+      FAIL      SUBTOTAL_EXPRESS passengers: components 115,349.00 vs printed 71,122.00 (+44227.00)
+      FAIL      SUBTOTAL_EXPRESS total_miles: components 9,051.87 vs printed 9,826.40 (-774.53)
+      FAIL      SUBTOTAL_EXPRESS total_hours: components 1,223.25 vs printed 1,236.29 (-13.04)
+      FAIL      1B P/Mi: printed 849.23 vs 35,307/10,115.93 = 3.49
+      FAIL      2A P/Mi: printed 301.19 vs 5,213/3,745.40 = 1.39
+      FAIL      2B P/Mi: printed 332.92 vs 5,578/3,747.99 = 1.49
+      FAIL      4B P/Mi: printed 876.58 vs 101,945/11,608.42 = 8.78
+      FAIL      5 P/Mi: printed 494.5 vs 19,357/7,485.30 = 2.59
+      FAIL      6A P/Mi: printed 737.22 vs 13,902/11,847.57 = 1.17
+      FAIL      8 P/Mi: printed 489.15 vs 9,183/7,294.44 = 1.26
+      FAIL      9 P/Mi: printed 304.35 vs 2,180/4,502.84 = 0.48
+      FAIL      10 P/Mi: printed 565.3 vs 28,997/6,682.27 = 4.34
+      FAIL      SUBTOTAL_REGULAR P/Mi: printed 9208.0 vs 309,216/121,416.00 = 2.55
+      FAIL      13 P/Mi: printed 561.09 vs 72,551/3,791.99 = 19.13
+      FAIL      14 P/Mi: printed 101.81 vs 3,376/963.90 = 3.50
+      FAIL      15 P/Mi: printed 560.35 vs 39,422/4,295.98 = 9.18
+      FAIL      SUBTOTAL_EXPRESS P/Mi: printed 1236.29 vs 71,122/9,826.40 = 7.24
+      FAIL      24 P/Mi: printed 199.66 vs 7,622/3,366.28 = 2.26
+      FAIL      35 P/Mi: printed 547.15 vs 33,547/6,675.27 = 5.03
+      FAIL      MB_TOTAL P/Mi: printed 11585.88 vs 439,507/146,694.89 = 3.00
+      FAIL      DR P/Mi: printed 1108.51 vs 2,961/14,335.82 = 0.21
+      FAIL      DR_TOTAL P/Mi: printed 1108.51 vs 2,961/14,335.82 = 0.21
+      FAIL      GRAND_TOTAL P/Mi: printed 12694.39 vs 442,468/161,030.71 = 2.75
+2024-02  (No.687)  30 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 319,467.00 vs printed 319,651.00 (-184.00)
+2024-03  (No.688)  30 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 283,477.00 vs printed 283,587.00 (-110.00)
+2024-04  (No.689)  30 rows
+      69 checks, all pass
+2024-05  (No.690)  30 rows
+      69 checks, all pass
+2024-06  (No.691)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 192,833.00 vs printed 193,133.00 (-300.00)
+2024-07  (No.692)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 194,057.00 vs printed 194,164.00 (-107.00)
+2024-08  (No.693)  25 rows
+      rounding  SUBTOTAL_REGULAR passengers: components 287,868.00 vs printed 287,870.00 (-2.00)
+      56 checks, all pass
+2024-09  (No.694)  25 rows
+      56 checks, all pass
+2024-10  (No.695)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 311,037.00 vs printed 347,298.00 (-36261.00)
+2024-11  (No.696)  26 rows
+      58 checks, all pass
+2025-01  (No.698)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 241,388.00 vs printed 241,600.00 (-212.00)
+      FAIL      VP P/Hrs: printed 11.0 vs 456/42.00 = 10.86
+      FAIL      VP P/Mi: printed 0.0 vs 456/1,351.00 = 0.34
+2025-02  (No.699)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 265,398.00 vs printed 272,817.00 (-7419.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 97,369.24 vs printed 102,381.00 (-5011.76)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 7,430.78 vs printed 7,806.00 (-375.22)
+      FAIL      VP P/Hrs: printed 13.0 vs 566/42.00 = 13.48
+      FAIL      VP P/Mi: printed 0.0 vs 566/1,341.00 = 0.42
+2025-03  (No.700)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 225,484.00 vs printed 248,193.00 (-22709.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 94,481.61 vs printed 113,754.00 (-19272.39)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 7,499.87 vs printed 8,755.00 (-1255.13)
+      FAIL      VP P/Hrs: printed 15.0 vs 624/41.00 = 15.22
+      FAIL      VP P/Mi: printed 0.0 vs 624/1,331.00 = 0.47
+2025-04  (No.701)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 257,308.00 vs printed 261,150.00 (-3842.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 115,288.13 vs printed 119,922.00 (-4633.87)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,880.94 vs printed 9,193.00 (-312.06)
+      FAIL      VP P/Mi: printed 0.0 vs 660/1,426.00 = 0.46
+2025-05  (No.702)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 152,583.00 vs printed 174,506.00 (-21923.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 96,493.72 vs printed 115,821.00 (-19327.28)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 7,517.42 vs printed 8,741.00 (-1223.58)
+2025-06  (No.703)  28 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 146,922.00 vs printed 149,982.00 (-3060.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 105,643.26 vs printed 110,372.00 (-4728.74)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,003.20 vs printed 8,318.00 (-314.80)
+2025-07  (No.704)  27 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 149,623.00 vs printed 157,182.00 (-7559.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 105,510.92 vs printed 114,001.19 (-8490.27)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 7,950.26 vs printed 8,611.30 (-661.04)
+2025-08  (No.705)
+      PARSE FAILED
+Traceback (most recent call last):
+  File "/Users/anshgrover/CityBusRouteIdentification/data/ansh/run_ridership.py", line 135, in main
+    rows = ridership.parse(page)
+  File "/Users/anshgrover/CityBusRouteIdentification/data/ansh/ridership.py", line 100, in parse
+    raise LookupError("no numbered-route rows found on the ridership page")
+LookupError: no numbered-route rows found on the ridership page
+
+2025-09  (No.706)
+      PARSE FAILED
+Traceback (most recent call last):
+  File "/Users/anshgrover/CityBusRouteIdentification/data/ansh/run_ridership.py", line 135, in main
+    rows = ridership.parse(page)
+  File "/Users/anshgrover/CityBusRouteIdentification/data/ansh/ridership.py", line 100, in parse
+    raise LookupError("no numbered-route rows found on the ridership page")
+LookupError: no numbered-route rows found on the ridership page
+
+2025-10  (No.707)  26 rows
+      FAIL      SUBTOTAL_REGULAR passengers: components 193,528.00 vs printed 199,822.00 (-6294.00)
+      FAIL      SUBTOTAL_REGULAR total_miles: components 110,441.25 vs printed 111,251.84 (-810.59)
+      FAIL      SUBTOTAL_REGULAR total_hours: components 8,913.83 vs printed 8,963.23 (-49.40)
+2025-11  (No.709)  26 rows
+      FAIL      MB_TOTAL P/Hrs: printed 21.0 vs 194,692/9,062.00 = 21.48
+2025-12  (No.710)  26 rows
+      FAIL      MB_TOTAL P/Hrs: printed 18.0 vs 165,236/9,308.00 = 17.75
+2026-01  (No.711)  26 rows
+      58 checks, all pass
+2026-02  (No.712)  26 rows
+      FAIL      MB_TOTAL P/Hrs: printed 20.0 vs 202,203/9,897.00 = 20.43
+2026-03  (No.713)  26 rows
+      FAIL      MB_TOTAL P/Hrs: printed 19.0 vs 187,912/10,017.00 = 18.76
+2026-04  (No.714)  2 rows
+      FAIL      no route groups found
+2026-05  (No.715)  26 rows
+      58 checks, all pass
+2026-06  (No.716)  25 rows
+      47 checks, all pass
+2026-07  (No.717)  25 rows
+      47 checks, all pass
+2026-08  (No.718)  28 rows
+      62 checks, all pass
+2026-09  (No.719)  25 rows
+      56 checks, all pass
+2022-01  hours swing  route 11: 106.00 -> 259.00 (+144%)
+2022-01  hours swing  route 17: 267.20 -> 560.43 (+110%)
+2022-02  hours swing  route 15: 334.00 -> 674.17 (+102%)
+2022-03  hours swing  route 1A: 1,010.21 -> 1,439.68 (+43%)
+2022-03  hours swing  route 1B: 750.40 -> 1,077.82 (+44%)
+2022-03  hours swing  route 2A: 172.76 -> 254.00 (+47%)
+2022-03  hours swing  route 2B: 172.76 -> 254.00 (+47%)
+2022-03  hours swing  route 3: 640.54 -> 940.07 (+47%)
+2022-03  hours swing  route 4A: 466.01 -> 691.03 (+48%)
+2022-03  hours swing  route 6A: 679.03 -> 955.57 (+41%)
+2022-03  hours swing  route 6B: 273.16 -> 406.50 (+49%)
+2022-03  hours swing  route 7: 724.20 -> 1,043.08 (+44%)
+2022-03  hours swing  route 8: 428.85 -> 622.50 (+45%)
+2022-03  hours swing  route 9: 212.99 -> 316.58 (+49%)
+2022-03  hours swing  route 23: 549.15 -> 815.00 (+48%)
+2022-04  hours swing  route 28: 421.78 -> 591.50 (+40%)
+2022-05  hours swing  route 2A: 190.00 -> 294.00 (+55%)
+2022-05  hours swing  route 2B: 190.00 -> 294.00 (+55%)
+2022-05  hours swing  route 13: 670.95 -> 159.75 (-76%)
+2022-05  hours swing  route 15: 792.40 -> 183.10 (-77%)
+2022-05  hours swing  route 17: 467.60 -> 111.33 (-76%)
+2022-05  hours swing  route 28: 591.50 -> 134.77 (-77%)
+2022-05  hours swing  route 21A: 525.00 -> 125.00 (-76%)
+2022-05  hours swing  route 24: 298.20 -> 71.00 (-76%)
+2022-05  hours swing  route 35: 669.90 -> 159.50 (-76%)
+2022-05  hours swing  route SUBTOTAL_3: 1,493.10 -> 355.50 (-76%)
+2022-08  hours swing  route 15: 183.10 -> 98.90 (-46%)
+2022-08  hours swing  route 17: 111.33 -> 66.60 (-40%)
+2022-08  hours swing  route 28: 134.77 -> 66.30 (-51%)
+2022-09  hours swing  route 5: 321.00 -> 560.00 (+74%)
+2022-09  hours swing  route 10: 380.50 -> 579.50 (+52%)
+2022-09  hours swing  route 13: 99.45 -> 696.15 (+600%)
+2022-09  hours swing  route 15: 98.90 -> 803.63 (+713%)
+2022-09  hours swing  route 17: 66.60 -> 466.20 (+600%)
+2022-09  hours swing  route 28: 66.30 -> 585.43 (+783%)
+2022-09  hours swing  route 21A: 75.00 -> 525.00 (+600%)
+2022-09  hours swing  route 24: 42.60 -> 298.20 (+600%)
+2022-09  hours swing  route 35: 95.70 -> 669.90 (+600%)
+2022-09  hours swing  route SUBTOTAL_3: 213.30 -> 1,493.10 (+600%)
+2022-11  hours swing  route SUBTOTAL_3: 1,350.90 -> 2,307.32 (+71%)
+2022-11  hours swing  route SUBTOTAL_4: 860.40 -> 1,350.90 (+57%)
+2023-03  hours swing  route DR: 591.10 -> 1,111.94 (+88%)
+2023-05  hours swing  route 13: 644.95 -> 162.22 (-75%)
+2023-05  hours swing  route 15: 743.98 -> 185.07 (-75%)
+2023-05  hours swing  route 17: 438.01 -> 112.94 (-74%)
+2023-05  hours swing  route 28: 544.73 -> 132.53 (-76%)
+2023-05  hours swing  route 21A: 490.65 -> 120.44 (-75%)
+2023-05  hours swing  route 24: 283.03 -> 70.91 (-75%)
+2023-05  hours swing  route 35: 628.34 -> 159.66 (-75%)
+2023-05  hours swing  route SUBTOTAL_3: 1,402.02 -> 351.01 (-75%)
+2023-08  hours swing  route 5: 238.61 -> 392.20 (+64%)
+2023-08  hours swing  route 10: 308.93 -> 467.20 (+51%)
+2023-08  hours swing  route 13: 162.22 -> 289.14 (+78%)
+2023-08  hours swing  route 15: 185.07 -> 290.12 (+57%)
+2023-08  hours swing  route 28: 132.53 -> 193.08 (+46%)
+2023-08  hours swing  route 21A: 120.44 -> 198.50 (+65%)
+2023-08  hours swing  route 24: 70.91 -> 105.99 (+49%)
+2023-08  hours swing  route 35: 159.66 -> 281.49 (+76%)
+2023-08  hours swing  route SUBTOTAL_3: 351.01 -> 585.98 (+67%)
+2023-09  hours swing  route 13: 289.14 -> 649.77 (+125%)
+2023-09  hours swing  route 14: 55.42 -> 114.35 (+106%)
+2023-09  hours swing  route 15: 290.12 -> 653.53 (+125%)
+2023-09  hours swing  route 20: 93.55 -> 217.26 (+132%)
+2023-09  hours swing  route 28: 193.08 -> 455.89 (+136%)
+2023-09  hours swing  route 21A: 198.50 -> 463.84 (+134%)
+2023-09  hours swing  route 24: 105.99 -> 235.78 (+122%)
+2023-09  hours swing  route 35: 281.49 -> 637.68 (+127%)
+2023-09  hours swing  route SUBTOTAL_3: 585.98 -> 1,337.30 (+128%)
+2023-12  hours swing  route 13: 624.71 -> 354.07 (-43%)
+2023-12  hours swing  route 14: 115.32 -> 65.96 (-43%)
+2023-12  hours swing  route 15: 624.52 -> 359.03 (-43%)
+2023-12  hours swing  route 20: 207.51 -> 120.12 (-42%)
+2023-12  hours swing  route 28: 429.15 -> 246.85 (-42%)
+2023-12  hours swing  route 21A: 445.35 -> 258.28 (-42%)
+2023-12  hours swing  route 24: 224.42 -> 130.18 (-42%)
+2023-12  hours swing  route 35: 607.19 -> 343.86 (-43%)
+2023-12  hours swing  route SUBTOTAL_3: 1,276.96 -> 732.32 (-43%)
+2024-01  hours swing  route 13: 354.07 -> 561.09 (+58%)
+2024-01  hours swing  route 14: 65.96 -> 101.81 (+54%)
+2024-01  hours swing  route 15: 359.03 -> 560.35 (+56%)
+2024-01  hours swing  route 24: 130.18 -> 199.66 (+53%)
+2024-01  hours swing  route 35: 343.86 -> 547.15 (+59%)
+2024-02  hours swing  route 20: 120.12 -> 227.77 (+90%)
+2024-02  hours swing  route 28: 246.85 -> 476.58 (+93%)
+2024-02  hours swing  route 21A: 258.28 -> 487.48 (+89%)
+2024-02  hours swing  route SUBTOTAL_3: 732.32 -> 1,402.55 (+92%)
+2024-04  hours swing  route 13: 488.83 -> 699.90 (+43%)
+2024-04  hours swing  route 24: 183.50 -> 260.71 (+42%)
+2024-05  hours swing  route 5: 576.40 -> 299.33 (-48%)
+2024-05  hours swing  route 10: 644.20 -> 352.32 (-45%)
+2024-05  hours swing  route 13: 699.90 -> 98.27 (-86%)
+2024-05  hours swing  route 14: 131.64 -> 18.23 (-86%)
+2024-05  hours swing  route 15: 722.40 -> 96.34 (-87%)
+2024-05  hours swing  route 20: 241.24 -> 32.87 (-86%)
+2024-05  hours swing  route 28: 499.39 -> 68.17 (-86%)
+2024-05  hours swing  route 21A: 514.73 -> 64.65 (-87%)
+2024-05  hours swing  route 24: 260.71 -> 35.52 (-86%)
+2024-05  hours swing  route 35: 700.09 -> 93.77 (-87%)
+2024-05  hours swing  route SUBTOTAL_3: 1,475.53 -> 193.94 (-87%)
+2024-08  hours swing  route 5: 255.55 -> 401.29 (+57%)
+2024-08  hours swing  route 10: 304.11 -> 471.37 (+55%)
+2024-08  hours swing  route SUBTOTAL_3: 193.94 -> 674.62 (+248%)
+2024-09  hours swing  route 21E: 233.48 -> 451.62 (+93%)
+2024-09  hours swing  route 24E: 117.31 -> 230.77 (+97%)
+2024-09  hours swing  route 35E: 323.83 -> 654.17 (+102%)
+2024-09  hours swing  route SUBTOTAL_3: 674.62 -> 1,336.56 (+98%)
+2024-10  hours swing  route DR: 1,086.00 -> 29.00 (-97%)
+2024-10  hours swing  route DR: 29.00 -> 1,155.00 (+3883%)
+2024-11  hours swing  route DR: 1,155.00 -> 105.00 (-91%)
+2024-11  hours swing  route DR: 105.00 -> 1,128.00 (+974%)
+2025-01  hours swing  route DR: 1,128.00 -> 131.00 (-88%)
+2025-01  hours swing  route DR: 131.00 -> 1,121.00 (+756%)
+2025-02  hours swing  route 5: 291.65 -> 504.85 (+73%)
+2025-02  hours swing  route 21E: 323.47 -> 459.68 (+42%)
+2025-02  hours swing  route 35E: 446.91 -> 640.60 (+43%)
+2025-02  hours swing  route SUBTOTAL_3: 934.41 -> 1,327.95 (+42%)
+2025-02  hours swing  route DR: 1,121.00 -> 27.00 (-98%)
+2025-02  hours swing  route DR: 27.00 -> 1,021.00 (+3681%)
+2025-03  hours swing  route 2A: 173.42 -> 250.81 (+45%)
+2025-03  hours swing  route 3: 393.92 -> 597.98 (+52%)
+2025-03  hours swing  route DR: 1,021.00 -> 52.00 (-95%)
+2025-03  hours swing  route DR: 52.00 -> 1,083.00 (+1983%)
+2025-04  hours swing  route DR: 1,083.00 -> 101.00 (-91%)
+2025-04  hours swing  route DR: 101.00 -> 1,138.00 (+1027%)
+2025-05  hours swing  route 21E: 494.36 -> 160.70 (-67%)
+2025-05  hours swing  route 24E: 247.78 -> 82.23 (-67%)
+2025-05  hours swing  route 35E: 699.76 -> 225.73 (-68%)
+2025-05  hours swing  route SUBTOTAL_3: 1,441.90 -> 468.66 (-67%)
+2025-05  hours swing  route DR: 1,138.00 -> 138.00 (-88%)
+2025-05  hours swing  route DR: 138.00 -> 1,001.00 (+625%)
+2025-06  hours swing  route DR: 1,001.00 -> 84.00 (-92%)
+2025-06  hours swing  route DR: 84.00 -> 905.00 (+977%)
+2025-07  hours swing  route DR: 905.00 -> 53.00 (-94%)
+2025-07  hours swing  route DR: 53.00 -> 975.00 (+1740%)
+2025-10  hours swing  route 11: 290.17 -> 802.72 (+177%)
+2025-10  hours swing  route 13: 98.27 -> 907.27 (+823%)
+2025-10  hours swing  route 14: 18.23 -> 790.82 (+4238%)
+2025-10  hours swing  route 35: 93.77 -> 303.97 (+224%)
+2025-10  hours swing  route DR: 975.00 -> 1,411.99 (+45%)
+2025-12  hours swing  route VP: 44.00 -> 85.00 (+93%)
+2026-01  hours swing  route 11: 766.64 -> 397.89 (-48%)
+2026-01  hours swing  route 14: 761.93 -> 290.97 (-62%)
+2026-01  hours swing  route 23: 395.84 -> 772.08 (+95%)
+2026-01  hours swing  route 31: 282.38 -> 779.28 (+176%)
+2026-01  hours swing  route 41: 61.69 -> 372.90 (+504%)
+2026-02  hours swing  route 51E: 321.75 -> 463.73 (+44%)
+2026-02  hours swing  route 52E: 162.79 -> 237.69 (+46%)
+2026-02  hours swing  route 53E: 449.58 -> 646.00 (+44%)
+2026-02  hours swing  route VP: 71.00 -> 123.00 (+73%)
+2026-03  hours swing  route 32: 263.31 -> 133.04 (-49%)
+2026-03  hours swing  route VP: 123.00 -> 196.00 (+59%)
+2026-05  hours swing  route 11: 404.62 -> 773.05 (+91%)
+2026-05  hours swing  route 14: 297.25 -> 864.17 (+191%)
+2026-05  hours swing  route 23: 790.75 -> 384.20 (-51%)
+2026-05  hours swing  route 31: 799.40 -> 109.97 (-86%)
+2026-05  hours swing  route 32: 133.04 -> 285.02 (+114%)
+2026-05  hours swing  route 34: 171.81 -> 281.90 (+64%)
+2026-05  hours swing  route 51E: 395.74 -> 139.42 (-65%)
+2026-05  hours swing  route 52E: 205.36 -> 71.74 (-65%)
+2026-05  hours swing  route 53E: 550.43 -> 196.68 (-64%)
+2026-09  hours swing  route 32A: 37.64 -> 186.13 (+395%)
+2026-09  hours swing  route 32B: 43.51 -> 280.57 (+545%)
+2026-09  hours swing  route 34: 293.58 -> 544.59 (+85%)
+2026-09  hours swing  route 41: 273.67 -> 561.94 (+105%)
+2026-09  hours swing  route 42: 377.97 -> 135.82 (-64%)
+2026-09  hours swing  route 43: 403.02 -> 145.48 (-64%)
+2026-09  hours swing  route 51E: 140.77 -> 488.67 (+247%)
+2026-09  hours swing  route 52E: 71.40 -> 254.77 (+257%)
+2026-09  hours swing  route 53E: 198.19 -> 689.99 (+248%)

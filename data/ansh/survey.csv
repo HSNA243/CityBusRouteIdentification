@@ -1,0 +1,58 @@
+file,meeting_no,reported_month,pdf_bytes,chars,engine,scanned,error,pnl_cents,pnl,revenue,budget,ridership,operations,roadcalls,fuel,payroll,ridership_header
+658_2022-01-26.pdf,658,2021-12,17728239,74723,pdfplumber,,,yes,y,y,-,y,y,y,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 20 P/Hrs FROM 20
+659_2022-02-23.pdf,659,2022-01,1224373,26220,pdfplumber,,,yes,y,y,y,y,-,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 20 P/Hrs FROM 20
+661_2022-03-23.pdf,661,2022-02,3103630,38594,pdfplumber,,,yes,y,y,y,y,-,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+662_2022-04-27.pdf,662,2022-03,2826960,32663,pdfplumber,,,yes,y,y,y,y,-,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+663_2022-05-25.pdf,663,2022-04,1661122,38068,pdfplumber,,,yes,y,y,-,y,y,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+664_2022-06-22.pdf,664,2022-05,1470943,26481,pdfplumber,,,yes,y,y,-,y,y,y,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+665_2022-07-27.pdf,665,2022-06,2934818,27423,pdfplumber,,,yes,y,y,y,y,y,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+667_2022-08-24.pdf,667,2022-07,3821643,52748,pdfplumber,,,yes,y,y,y,y,-,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+668_2022-09-28.pdf,668,2022-08,2093976,22487,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+669_2022-10-26.pdf,669,2022-09,3176801,32512,pdfplumber,,,yes,y,y,y,y,-,y,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+670_2022-11-30.pdf,670,2022-10,3031886,29364,pdfplumber,,,yes,y,y,y,y,y,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+671_2022-12-21.pdf,671,2022-11,5959002,22105,pdfplumber,,,yes,y,y,-,y,y,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+672_2023-01-25.pdf,672,2022-12,6057366,50942,pdfplumber,,,yes,y,y,y,y,y,-,y,y,Route | RouteName | Passengers Total Miles Hours P/Mi FROM 21 P/Hrs FROM 21
+673_2023-02-22.pdf,672,2023-01,1567475,28780,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles | P/Mi | P/Hrs
+674_2023-03-22.pdf,674,2023-02,3423026,33246,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers *Total Miles | P/Mi | P/Hrs
+675_2023-04-26.pdf,675,2023-03,2469626,49665,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles | P/Mi | P/Hrs
+676_2023-05-24.pdf,675,2023-04,2581706,49815,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles | P/Mi | P/Hrs
+677_2023-06-28.pdf,677,2023-05,1246201,27228,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles | P/Mi | P/Hrs
+679_2023-07-26.pdf,679,2023-06,2926329,80552,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+680_2023-08-23.pdf,680,2023-07,6811701,177648,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+681_2023-09-27.pdf,681,2023-08,7062547,66361,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+682_2023-10-25.pdf,682,2023-09,16409629,67235,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+683_2023-11-29.pdf,683,2023-10,3513983,136311,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+684_2023-12-20.pdf,684,2023-11,1440817,34962,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+685_2024-01-24.pdf,685,2023-12,2705536,50000,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers | Total Miles Total Hours P/Mi | P/Hrs
+686_2024-02-28.pdf,686,2024-01,10280631,37524,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+687_2024-03-20.pdf,687,2024-02,2160230,54360,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers | Total Miles Total Hours P/Mi | P/Hrs
+688_2024-04-24.pdf,688,2024-03,16455528,202615,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+689_2024-05-22.pdf,689,2024-04,1562286,63748,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+690_2024-06-26.pdf,690,2024-05,2454638,45165,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+691_2024-07-24.pdf,691,2024-06,5451164,148034,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+692_2024-08-28.pdf,692,2024-07,3300890,164789,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+693_2024-09-25.pdf,693,2024-08,2025277,46856,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+694_2024-10-24.pdf,694,2024-09,2002485,45448,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+695_2024-11-20.pdf,695,2024-10,6535622,65302,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+696_2024-12-18.pdf,696,2024-11,2243593,56039,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+698_2025-02-26.pdf,698,2025-01,2937878,88080,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+699_2025-03-26.pdf,699,2025-02,2853038,41337,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+700_2025-04-23.pdf,700,2025-03,2633755,53608,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+701_2025-05-28.pdf,701,2025-04,3571010,40292,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+702_2025-06-25.pdf,702,2025-05,4547789,58130,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+703_2025-07-23.pdf,703,2025-06,2170439,40846,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+704_2025-08-27.pdf,704,2025-07,4115707,67684,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+705_2025-09-24.pdf,705,2025-08,3446152,83051,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | Route Name | Passengers | Total Miles Total Hours P/Mi | P/Hrs
+706_2025-10-29.pdf,706,2025-09,3962691,110072,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | Route Name | Passengers | Total Miles Total Hours P/Mi | P/Hrs
+707_2025-11-19.pdf,707,2025-10,3367879,112117,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | Route Name | Passengers Total Miles Total Hours P/Mi | P/Hrs
+709_2025-12-17.pdf,709,2025-11,5059133,170450,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | Route Name | Passengers Total Miles Total Hours P/Mi | P/Hrs
+710_2026-01-28.pdf,710,2025-12,2161796,41877,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+711_2026-02-25.pdf,711,2026-01,15659254,101150,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+712_2026-03-25.pdf,712,2026-02,2341076,34121,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+713_2026-04-22.pdf,713,2026-03,3333941,76809,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+714_2026-05-27.pdf,714,2026-04,4557704,48653,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi P/Hrs
+715_2026-06-24.pdf,715,2026-05,3258706,119087,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+716_2026-07-22.pdf,716,2026-06,7280815,148437,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+717_2026-08-26.pdf,717,2026-07,4962501,73547,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+718_2026-09-23.pdf,718,2026-08,5649802,62083,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Total Miles Total Hours P/Mi | P/Hrs
+719_2026-10-28.pdf,719,2026-09,4539177,77042,pdfplumber,,,yes,y,y,y,y,y,y,y,y,Route | RouteName | Passengers Revenue Miles | P/Mi | P/Hrs
